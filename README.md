@@ -40,6 +40,7 @@
 ![image](https://github.com/buck1704/Hotel_Manager/assets/132087690/bc4111b3-3cf6-4add-b8a2-65ec39b2f9c6)
 <p align="center">Giao Diện Đổi Mật Khẩu</p>
 
-### Tác Giả: Trương Bá Cát Trường
+
 ### Email: truongtg2k@gmail.com
 ### Fb: https://www.facebook.com/ba.truong.0503/
+### Tác Giả: Trương Bá Cát Trường
